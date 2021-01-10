@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "704795309877",
+    "firebase_url": "https://ezyfood-bang-default-rtdb.firebaseio.com",
+    "project_id": "ezyfood-bang",
+    "storage_bucket": "ezyfood-bang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704795309877:android:eb4527ba07eaaa6df2fe7c",
+        "android_client_info": {
+          "package_name": "com.nim_2201744304.EzyFoodyWithMap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704795309877-7vehoma8901iptnohiqids637bqccng5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUU7zwyQRhK5Z5lRN_l9VFtJ1aewkjKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704795309877-7vehoma8901iptnohiqids637bqccng5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704795309877:android:a0b014ad2cd521a7f2fe7c",
+        "android_client_info": {
+          "package_name": "com.nim_2201744304.binusezyfoody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704795309877-7vehoma8901iptnohiqids637bqccng5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUU7zwyQRhK5Z5lRN_l9VFtJ1aewkjKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704795309877-7vehoma8901iptnohiqids637bqccng5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
